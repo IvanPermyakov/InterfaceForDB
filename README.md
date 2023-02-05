@@ -8,10 +8,10 @@
 Приложение поддерживает работу с типами данных(INTEGER, TEXT, DATE, NUMERIC(10,2))
 
 При запуске приложение запрашивает данные для подключения
-![FirstWindow](https://github.com/IvanPermyakov/InterfaceForDB/blob/main/Picture/FirstWindow.JPG)
+![FirstWindow](https://github.com/IvanPermyakov/InterfaceForDB/blob/master/Picture/FirstWindow.JPG)
 
 После подключения открывается основное окно приложения
-![MainWindow](https://github.com/IvanPermyakov/InterfaceForDB/blob/main/Picture/MainWindow.JPG)
+![MainWindow](https://github.com/IvanPermyakov/InterfaceForDB/blob/master/Picture/MainWindow.JPG)
 
 1) Таблица со списком таблиц хранящихся в БД, при двойном щелчке по наименованию таблицы  все её атрибуты открываются в правой таблице 
 2) Таблица со списком всех атрибутов таблицы, в ней содержатся наименования атрибутов, тип данных атрибута и является ли атрибут первичным ключом
